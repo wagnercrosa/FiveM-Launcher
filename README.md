@@ -6,7 +6,7 @@ Você que está desenvolvendo um servidor roleplay e quer deixar-lo com uma cara
 ## Requisitos 🤔
 - [Nodejs](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/en/)
-- [Git](https://classic.yarnpkg.com/en/)
+- [Git](https://git-scm.com/)
 
 ## Tutorial 😘
 Após ter instalado os programas necessários iremos criar uma pasta na area de trabalho chamada **launchers**, beleza 👍? Feito isso, vamos abrir o terminal e ler até onde a raiz da pasta se encontra (ex: ` C:\Users\TEUUSUARIO\Desktop\launchers`) e iremos dar o seguinte comando `git clone https://github.com/gustrigoni/FiveM-Launcher` ou se preferir baixe a pasta do repositório aqui mesmo e apenas cole na pasta que criamos na desktop. Após ter clonado ou colado os arquivos no diretório iremos rodar seguinte comando no terminal `npm install` ou `yarn install` para baixar todas as dependencias do projeto.
